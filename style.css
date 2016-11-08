@@ -1,0 +1,46 @@
+table {
+	font-size: 12pt;
+	margin: auto;
+	border: 1px solid darkgray;
+	margin-bottom: 25px;
+}
+
+
+th {
+	border-spacing: 5px;
+	padding-left: 10px;
+	padding-right: 10px;
+	border: 1px solid black;
+
+}
+
+td {
+	border-spacing: 5px;
+	padding-left: 5px;
+	padding-right: 27px;
+	border: 1px solid black;
+
+} 
+
+.bold{
+ font-weight: bold;
+}
+
+.sp2{
+	padding: 1px;
+}
+
+.col1{
+	width: 37%;
+}
+
+.table2{
+	width: 45%;
+}
+
+.table3{
+	text-align: left;
+	width: 45%;
+	border: 2px solid black;
+	border-collapse: collapse;
+}
